@@ -56,6 +56,7 @@ the terms of any one of the MPL, the GPL or the LGPL.
 #endif
 
 #include <sys/types.h>
+#include <spatialite/sqlite.h>
 
 #ifdef __cplusplus
 extern "C"
