@@ -42,7 +42,7 @@ the terms of any one of the MPL, the GPL or the LGPL.
  
 */
 
-#include <spatialite_private.h>
+#include "spatialite_private.h"
 
 SPATIALITE_PRIVATE int virtualshape_extension_init (void *db);
 SPATIALITE_PRIVATE int virtualdbf_extension_init (void *db);

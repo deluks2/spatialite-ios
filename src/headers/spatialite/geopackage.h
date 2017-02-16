@@ -72,7 +72,7 @@ extern "C"
 {
 #endif
 
-#include <spatialite/gaiageo.h>
+#include "spatialite/gaiageo.h"
 
 /* Internal geopackage SQL function implementation */
     GEOPACKAGE_PRIVATE void fnct_gpkgCreateBaseTables (sqlite3_context *
